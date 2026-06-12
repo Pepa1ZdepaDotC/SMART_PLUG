@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "SMART_PLUG_LIB")(type "KiCad")(uri "${KIPRJMOD}/SMART_PLUG_LIB.kicad_sym")(options "")(descr ""))
+  (lib (name "CC234_lib")(type "KiCad")(uri "D:/KiCad/Projects/CC234_devboard/CC234_lib.kicad_sym")(options "")(descr ""))
+)

@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "SMART_PLUG_SYMLIB")(type "KiCad")(uri "${KIPRJMOD}/SMART_PLUG_SYMLIB.pretty")(options "")(descr ""))
+)
